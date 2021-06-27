@@ -5,7 +5,7 @@ lst = []
 probLst = []
 for j in range(10):
     for i in range(1000):
-        total_score = random.randint(2, 36)
+        total_score = random.randint(2, 12)
         lst.append(total_score)
     favorable = 0
     for i in lst:
