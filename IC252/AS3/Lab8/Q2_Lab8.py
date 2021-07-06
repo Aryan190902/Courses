@@ -1,4 +1,3 @@
-from typing_extensions import Literal
 import pandas as pd
 import numpy as np
 
